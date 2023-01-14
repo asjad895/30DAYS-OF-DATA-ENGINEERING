@@ -1,0 +1,15 @@
+*****************************************
+DATA ENGINEERING:                       *
+*****************************************
+In simple words, Data Engineering is the heart of designing, building for collecting, storing, processing, and analyzing large amount of data at scale.
+*****************************************
+DATA ENGINEERING ECOSYSTEM:
+it contains mainly 4 things-
+data-contains structured and unstructured
+
+data stores and repositories-Relational and non-relational databases, data warehouses, data marts, data lakes, and big data stores that store and process the data.
+
+data pipelines-Collect/Gather data from multiple sources, clean, process and transform it into data which can used for analysis.
+
+Analytics and Data driven Decision Making-Make the well processed data available for further business analytics, visualization and data driven decision making.
+
